@@ -1,8 +1,29 @@
+# Landing Page for MITS
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+## After performing git on the repo:
+
+### then Open your code editor | go to terminal | perform 'cd' where you downloaded the repo then type this command in terminal:
+```
+cd Landing-Page
+```
+
+
+## Second get started with:
+```
+npm i
+```
+## or:
+
+```
+npm install
+```
+
+**Third, run the development server**:
 
 ```bash
 npm run dev
